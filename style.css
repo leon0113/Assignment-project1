@@ -35,8 +35,9 @@ section{
 }
 .same-width{
     width: 20%;
+    height: 70%;
     padding-left: 0%;
-    margin: auto;
+    margin: 5px;
     
     
 }
@@ -48,20 +49,19 @@ section{
 .section2{
     width: 900px;
     height: 400px;
-    border: black 1px solid;
-    margin-left: 20%;
+    margin-left: 30%;
 }
 .mission1{
     background-color: rgb(134, 170, 238);
+    border-radius: 10px;
    
 }
 .vision2{
     background-color: rgb(247, 159, 228);
+    border-radius: 10px;
 }
 .goals3{
     background-color: rgb(240, 194, 77);
-}
-p{
-    margin-left: 2px;
+    border-radius: 10px;
 }
 
